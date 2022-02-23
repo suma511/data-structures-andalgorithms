@@ -3,4 +3,4 @@
 | ----------- | ----------- |
 | challenge1     |  [challenge1](./challenge1/README.md)
      |
-| challenge2   | Text        |
+| challenge2   | Text   [challenge2](./challenge2/challeng2.md)     |
